@@ -74,14 +74,15 @@ The automated tests cover the following scenarios:
 
 ## GitHub Copilot Prompts Used
 
-- Generate automatic test for Django employee management application
-- Create Page Object Model for Django employee application
-- Write Selenium test for adding a new employee
-- Write UFT test script for employee management system
+Generate automatic test for django employee management apllication
+* use powershell compatible command lines
+* do not use `&&' to connect command lines
+* thorughly analize application code base located in ..\ems and subfolders
+* do not change or add anything in folder ..ems and it subloders
+* catalogue all UI actions in application
+* build tests
 
 ## Challenges Faced
+* Powershell prompt compatibility issues
+* Handling dynamic parameters in test run command line
 
-- Setting up the proper environment for both Selenium and UFT tests
-- Handling dynamic elements in the Django application
-- Coordinating test data between different test scenarios
-- Cross-browser compatibility issues
