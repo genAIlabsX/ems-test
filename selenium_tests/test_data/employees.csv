@@ -1,0 +1,11 @@
+name,email,department,salary,status
+John Doe,john.doe@example.com,Engineering,75000,Active
+Jane Smith,jane.smith@example.com,Marketing,65000,Active
+Bob Johnson,bob.johnson@example.com,Finance,85000,Active
+Alice Brown,alice.brown@example.com,Human Resources,60000,Active
+Mike Wilson,mike.wilson@example.com,Sales,70000,Inactive
+Sarah Lee,sarah.lee@example.com,Engineering,78000,Active
+Tom Harris,tom.harris@example.com,Marketing,67000,Inactive
+Lisa Clark,lisa.clark@example.com,Finance,82000,Active
+David Miller,david.miller@example.com,Human Resources,62000,Active
+Emily Davis,emily.davis@example.com,Sales,72000,Active
